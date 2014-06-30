@@ -20,7 +20,7 @@ import java.util.HashMap;
  * To change this template use File | Settings | File Templates.
  */
 public class Main extends JavaPlugin implements Listener {
-    private HashMap<String, Double> heldDown;
+    private HashMap<String, Double> heldDown;                //Hello there :)
     public void onEnable() {
         this.heldDown = new HashMap<String, Double>();
         this.getServer().getPluginManager().registerEvents(this, this);
