@@ -1,5 +1,8 @@
 # ChargeJump
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[ChargeJump Bukkit Plugin Page] (https://dev.bukkit.org/projects/chargejump)
 
 This is a plugin which your jump charges from your shifting. If I shift for a while, 
 when I let go I will jump as high as I have been shifting for. The plugin was made for [this plugin request] (https://forums.bukkit.org/threads/request-charge-your-jumps.285378/). 
